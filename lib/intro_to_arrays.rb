@@ -15,5 +15,10 @@ end
 
 def third_element(array)
   t = array[2]
-  third_element
+  t
+end 
+
+def last_element(array)
+  lt = array[-1]
+  lt
 end 
